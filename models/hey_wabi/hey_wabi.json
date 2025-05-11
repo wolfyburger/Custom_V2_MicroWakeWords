@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "hey wabi",
+  "wake_word": "hey lazlo",
   "author": "Leland Olney",
   "website": "https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords",
-  "model": "hey_wabi.tflite",
+  "model": "hey_lazlo.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.66,
